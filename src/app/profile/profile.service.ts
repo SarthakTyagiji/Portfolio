@@ -191,7 +191,7 @@ export class ProfileService {
   Used various tools like Docker, Github, Jenkins etc.`
 
   about = "Results-driven DevOps Engineer with a proven track record of 3 years in supporting, automating, and optimizing mission-critical deployments on AWS. Proficient in leveraging advanced configuration management, CI/CD practices, Terraform, and a strong understanding of DevOps methodologies. Seeking a challenging position where I can contribute my expertise, drive innovation, and adapt to evolving technologies while fostering professional growth."
-  resumeurl = "https://resume-mayank.s3.amazonaws.com/Resume.pdf"
+  resumeurl = "https://my-resume-001.s3.us-west-2.amazonaws.com/resume+with+exp+freelance.pdf"
 
   skillsData: any = [
     {
